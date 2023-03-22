@@ -1,0 +1,15 @@
+{
+  "barbarian":
+  {
+    "hit_dice": 12,
+    "proficiencies":
+    {
+      "armour": ["light", "medium", "shields"],
+      "weapons": ["simple", "martial"],
+      "tools": [],
+      "saving_throws": ["str", "con"],
+      "skills": ["animal handling", "athletics", "intimidation", "nature", "perception", "survival"]
+    },
+    "equipment": []
+  }
+}
